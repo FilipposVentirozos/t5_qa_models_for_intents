@@ -1,0 +1,22 @@
+[
+    {
+        "BLEU": 0.5575,
+        "Rouge 1": 0.5525,
+        "Accuracy": 0.5429,
+        "Dummy Accuracy": 0.0,
+        "Precision": 0.5429,
+        "Recall": 0.5429,
+        "F1 Score Weighted": 0.5403,
+        "F1 Score Micro": 0.5429,
+        "Hamming loss": 0.4571,
+        "round": 1,
+        "max of: BLEU": 1,
+        "max of: Rouge 1": 1,
+        "max of: Accuracy": 1,
+        "max of: Precision": 1,
+        "max of: Recall": 1,
+        "max of: F1 Score Weighted": 1,
+        "max of: F1 Score Micro": 1,
+        "min of: Hamming loss": 1
+    }
+]

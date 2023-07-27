@@ -1,0 +1,24 @@
+[
+    {
+        "Google BLEU": 0.4409,
+        "Rouge 1": 0.318,
+        "Rouge 2": 0.0062,
+        "Accuracy": 0.645,
+        "Dummy Accuracy": 0.0,
+        "Precision": 0.9518,
+        "Recall": 0.9335,
+        "F1 Score Weighted": 0.9361,
+        "F1 Score Micro": 0.9425,
+        "Hamming loss": 0.0445,
+        "round": 1,
+        "max of: Google BLEU": 1,
+        "max of: Rouge 1": 1,
+        "max of: Rouge 2": 1,
+        "max of: Accuracy": 1,
+        "max of: Precision": 1,
+        "max of: Recall": 1,
+        "max of: F1 Score Weighted": 1,
+        "max of: F1 Score Micro": 1,
+        "min of: Hamming loss": 1
+    }
+]

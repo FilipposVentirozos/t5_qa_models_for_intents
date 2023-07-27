@@ -1,0 +1,17 @@
+{
+    "model_name_or_path": "models/WoT/SQuAD_Extractive_t5_sampled",
+    "do_train": false,
+    "do_eval": false,
+    "do_predict": true,
+    "predict_with_generate": true,
+    "output_dir": "reports/WoT/SQuAD_Extractive_t5_sampled",
+    "overwrite_output_dir": true,
+    "test_file": "data/WoT/extractive_test.csv",
+    "context_column": "context",
+    "answer_column": "answer",
+    "question_column": "question",
+    "per_device_eval_batch_size": 8,
+    "boolean_type": false,
+    "version_2_with_negative": true,
+    "experiment": "wot"
+}

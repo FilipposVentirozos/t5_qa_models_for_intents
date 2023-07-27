@@ -1,0 +1,17 @@
+{
+    "model_name_or_path": "models/RRecipe/BoolQ_Boolean_t5",
+    "do_train": false,
+    "do_eval": false,
+    "do_predict": true,
+    "predict_with_generate": true,
+    "output_dir": "reports/RRecipe/BoolQ_Boolean_t5",
+    "overwrite_output_dir": true,
+    "test_file": "data/RRecipe/boolean_test.csv",
+    "context_column": "context",
+    "answer_column": "answer",
+    "question_column": "question",
+    "per_device_eval_batch_size": 16,
+    "boolean_type": true,
+    "version_2_with_negative": false,
+    "experiment": "rrecipe"
+}

@@ -1,0 +1,17 @@
+{
+    "model_name_or_path": "models/RRecipe/SQuAD_Extractive_t5_few_shot",
+    "do_train": false,
+    "do_eval": false,
+    "do_predict": true,
+    "predict_with_generate": true,
+    "output_dir": "reports/RRecipe/SQuAD_Extractive_t5_few_shot",
+    "overwrite_output_dir": true,
+    "test_file": "data/RRecipe_Few_Shot/extractive_test.csv",
+    "context_column": "context",
+    "answer_column": "answer",
+    "question_column": "question",
+    "per_device_eval_batch_size": 13,
+    "boolean_type": false,
+    "version_2_with_negative": true,
+    "experiment": "rrecipe"
+}

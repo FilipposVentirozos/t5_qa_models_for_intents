@@ -1,0 +1,17 @@
+{
+    "model_name_or_path": "models/RRecipe/Extractive_st5",
+    "do_train": false,
+    "do_eval": false,
+    "do_predict": true,
+    "predict_with_generate": true,
+    "output_dir": "reports/RRecipe/Extractive_st5",
+    "overwrite_output_dir": true,
+    "test_file": "data/RRecipe/extractive_test.csv",
+    "context_column": "context",
+    "answer_column": "answer",
+    "question_column": "question",
+    "per_device_eval_batch_size": 13,
+    "boolean_type": false,
+    "version_2_with_negative": true,
+    "experiment": "rrecipe"
+}

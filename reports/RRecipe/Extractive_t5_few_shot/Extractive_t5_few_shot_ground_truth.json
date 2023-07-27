@@ -1,0 +1,3202 @@
+[
+    {
+        "id": 0,
+        "answers": "375 degrees f."
+    },
+    {
+        "id": 1,
+        "answers": null
+    },
+    {
+        "id": 2,
+        "answers": "No"
+    },
+    {
+        "id": 3,
+        "answers": "No"
+    },
+    {
+        "id": 4,
+        "answers": null
+    },
+    {
+        "id": 5,
+        "answers": null
+    },
+    {
+        "id": 6,
+        "answers": "No"
+    },
+    {
+        "id": 7,
+        "answers": "No"
+    },
+    {
+        "id": 8,
+        "answers": "375 degrees f"
+    },
+    {
+        "id": 9,
+        "answers": null
+    },
+    {
+        "id": 10,
+        "answers": "No"
+    },
+    {
+        "id": 11,
+        "answers": "No"
+    },
+    {
+        "id": 12,
+        "answers": null
+    },
+    {
+        "id": 13,
+        "answers": null
+    },
+    {
+        "id": 14,
+        "answers": "No"
+    },
+    {
+        "id": 15,
+        "answers": "No"
+    },
+    {
+        "id": 16,
+        "answers": null
+    },
+    {
+        "id": 17,
+        "answers": null
+    },
+    {
+        "id": 18,
+        "answers": "No"
+    },
+    {
+        "id": 19,
+        "answers": "No"
+    },
+    {
+        "id": 20,
+        "answers": null
+    },
+    {
+        "id": 21,
+        "answers": null
+    },
+    {
+        "id": 22,
+        "answers": "No"
+    },
+    {
+        "id": 23,
+        "answers": "No"
+    },
+    {
+        "id": 24,
+        "answers": "350 degrees f."
+    },
+    {
+        "id": 25,
+        "answers": null
+    },
+    {
+        "id": 26,
+        "answers": "No"
+    },
+    {
+        "id": 27,
+        "answers": "No"
+    },
+    {
+        "id": 28,
+        "answers": "350 degrees f"
+    },
+    {
+        "id": 29,
+        "answers": "20 minutes"
+    },
+    {
+        "id": 30,
+        "answers": "Yes"
+    },
+    {
+        "id": 31,
+        "answers": "Yes"
+    },
+    {
+        "id": 32,
+        "answers": null
+    },
+    {
+        "id": 33,
+        "answers": null
+    },
+    {
+        "id": 34,
+        "answers": "No"
+    },
+    {
+        "id": 35,
+        "answers": "No"
+    },
+    {
+        "id": 36,
+        "answers": null
+    },
+    {
+        "id": 37,
+        "answers": null
+    },
+    {
+        "id": 38,
+        "answers": "No"
+    },
+    {
+        "id": 39,
+        "answers": "No"
+    },
+    {
+        "id": 40,
+        "answers": null
+    },
+    {
+        "id": 41,
+        "answers": "7-10 minutes"
+    },
+    {
+        "id": 42,
+        "answers": "No"
+    },
+    {
+        "id": 43,
+        "answers": "No"
+    },
+    {
+        "id": 44,
+        "answers": "350 degrees f"
+    },
+    {
+        "id": 45,
+        "answers": "10- 15 minutes"
+    },
+    {
+        "id": 46,
+        "answers": "Yes"
+    },
+    {
+        "id": 47,
+        "answers": "Yes"
+    },
+    {
+        "id": 48,
+        "answers": null
+    },
+    {
+        "id": 49,
+        "answers": null
+    },
+    {
+        "id": 50,
+        "answers": "Yes"
+    },
+    {
+        "id": 51,
+        "answers": "Yes"
+    },
+    {
+        "id": 52,
+        "answers": null
+    },
+    {
+        "id": 53,
+        "answers": null
+    },
+    {
+        "id": 54,
+        "answers": "Yes"
+    },
+    {
+        "id": 55,
+        "answers": "No"
+    },
+    {
+        "id": 56,
+        "answers": "350 degrees"
+    },
+    {
+        "id": 57,
+        "answers": "20 minutes"
+    },
+    {
+        "id": 58,
+        "answers": "Yes"
+    },
+    {
+        "id": 59,
+        "answers": "Yes"
+    },
+    {
+        "id": 60,
+        "answers": null
+    },
+    {
+        "id": 61,
+        "answers": null
+    },
+    {
+        "id": 62,
+        "answers": "No"
+    },
+    {
+        "id": 63,
+        "answers": "No"
+    },
+    {
+        "id": 64,
+        "answers": null
+    },
+    {
+        "id": 65,
+        "answers": null
+    },
+    {
+        "id": 66,
+        "answers": "No"
+    },
+    {
+        "id": 67,
+        "answers": "No"
+    },
+    {
+        "id": 68,
+        "answers": null
+    },
+    {
+        "id": 69,
+        "answers": null
+    },
+    {
+        "id": 70,
+        "answers": "No"
+    },
+    {
+        "id": 71,
+        "answers": "No"
+    },
+    {
+        "id": 72,
+        "answers": null
+    },
+    {
+        "id": 73,
+        "answers": null
+    },
+    {
+        "id": 74,
+        "answers": "No"
+    },
+    {
+        "id": 75,
+        "answers": "No"
+    },
+    {
+        "id": 76,
+        "answers": "325 degrees f"
+    },
+    {
+        "id": 77,
+        "answers": null
+    },
+    {
+        "id": 78,
+        "answers": "No"
+    },
+    {
+        "id": 79,
+        "answers": "No"
+    },
+    {
+        "id": 80,
+        "answers": null
+    },
+    {
+        "id": 81,
+        "answers": null
+    },
+    {
+        "id": 82,
+        "answers": "No"
+    },
+    {
+        "id": 83,
+        "answers": "No"
+    },
+    {
+        "id": 84,
+        "answers": null
+    },
+    {
+        "id": 85,
+        "answers": null
+    },
+    {
+        "id": 86,
+        "answers": "No"
+    },
+    {
+        "id": 87,
+        "answers": "No"
+    },
+    {
+        "id": 88,
+        "answers": null
+    },
+    {
+        "id": 89,
+        "answers": "45 minutes"
+    },
+    {
+        "id": 90,
+        "answers": "Yes"
+    },
+    {
+        "id": 91,
+        "answers": "No"
+    },
+    {
+        "id": 92,
+        "answers": null
+    },
+    {
+        "id": 93,
+        "answers": null
+    },
+    {
+        "id": 94,
+        "answers": "No"
+    },
+    {
+        "id": 95,
+        "answers": "No"
+    },
+    {
+        "id": 96,
+        "answers": null
+    },
+    {
+        "id": 97,
+        "answers": null
+    },
+    {
+        "id": 98,
+        "answers": "No"
+    },
+    {
+        "id": 99,
+        "answers": "No"
+    },
+    {
+        "id": 100,
+        "answers": null
+    },
+    {
+        "id": 101,
+        "answers": null
+    },
+    {
+        "id": 102,
+        "answers": "No"
+    },
+    {
+        "id": 103,
+        "answers": "No"
+    },
+    {
+        "id": 104,
+        "answers": "350 degrees fahrenheit"
+    },
+    {
+        "id": 105,
+        "answers": null
+    },
+    {
+        "id": 106,
+        "answers": "No"
+    },
+    {
+        "id": 107,
+        "answers": "No"
+    },
+    {
+        "id": 108,
+        "answers": null
+    },
+    {
+        "id": 109,
+        "answers": "15 mins"
+    },
+    {
+        "id": 110,
+        "answers": "Yes"
+    },
+    {
+        "id": 111,
+        "answers": "Yes"
+    },
+    {
+        "id": 112,
+        "answers": null
+    },
+    {
+        "id": 113,
+        "answers": null
+    },
+    {
+        "id": 114,
+        "answers": "Yes"
+    },
+    {
+        "id": 115,
+        "answers": "No"
+    },
+    {
+        "id": 116,
+        "answers": null
+    },
+    {
+        "id": 117,
+        "answers": null
+    },
+    {
+        "id": 118,
+        "answers": "No"
+    },
+    {
+        "id": 119,
+        "answers": "No"
+    },
+    {
+        "id": 120,
+        "answers": null
+    },
+    {
+        "id": 121,
+        "answers": null
+    },
+    {
+        "id": 122,
+        "answers": "No"
+    },
+    {
+        "id": 123,
+        "answers": "No"
+    },
+    {
+        "id": 124,
+        "answers": "325 degrees"
+    },
+    {
+        "id": 125,
+        "answers": "29-34 minutes"
+    },
+    {
+        "id": 126,
+        "answers": "Yes"
+    },
+    {
+        "id": 127,
+        "answers": "Yes"
+    },
+    {
+        "id": 128,
+        "answers": null
+    },
+    {
+        "id": 129,
+        "answers": null
+    },
+    {
+        "id": 130,
+        "answers": "Yes"
+    },
+    {
+        "id": 131,
+        "answers": "No"
+    },
+    {
+        "id": 132,
+        "answers": null
+    },
+    {
+        "id": 133,
+        "answers": null
+    },
+    {
+        "id": 134,
+        "answers": "No"
+    },
+    {
+        "id": 135,
+        "answers": "No"
+    },
+    {
+        "id": 136,
+        "answers": null
+    },
+    {
+        "id": 137,
+        "answers": null
+    },
+    {
+        "id": 138,
+        "answers": "No"
+    },
+    {
+        "id": 139,
+        "answers": "No"
+    },
+    {
+        "id": 140,
+        "answers": null
+    },
+    {
+        "id": 141,
+        "answers": null
+    },
+    {
+        "id": 142,
+        "answers": "No"
+    },
+    {
+        "id": 143,
+        "answers": "No"
+    },
+    {
+        "id": 144,
+        "answers": "350 fs"
+    },
+    {
+        "id": 145,
+        "answers": "20-25 minutes max"
+    },
+    {
+        "id": 146,
+        "answers": "Yes"
+    },
+    {
+        "id": 147,
+        "answers": "Yes"
+    },
+    {
+        "id": 148,
+        "answers": null
+    },
+    {
+        "id": 149,
+        "answers": null
+    },
+    {
+        "id": 150,
+        "answers": "No"
+    },
+    {
+        "id": 151,
+        "answers": "No"
+    },
+    {
+        "id": 152,
+        "answers": null
+    },
+    {
+        "id": 153,
+        "answers": null
+    },
+    {
+        "id": 154,
+        "answers": "No"
+    },
+    {
+        "id": 155,
+        "answers": "No"
+    },
+    {
+        "id": 156,
+        "answers": null
+    },
+    {
+        "id": 157,
+        "answers": null
+    },
+    {
+        "id": 158,
+        "answers": "No"
+    },
+    {
+        "id": 159,
+        "answers": "No"
+    },
+    {
+        "id": 160,
+        "answers": null
+    },
+    {
+        "id": 161,
+        "answers": null
+    },
+    {
+        "id": 162,
+        "answers": "No"
+    },
+    {
+        "id": 163,
+        "answers": "No"
+    },
+    {
+        "id": 164,
+        "answers": null
+    },
+    {
+        "id": 165,
+        "answers": "20 minutes"
+    },
+    {
+        "id": 166,
+        "answers": "Yes"
+    },
+    {
+        "id": 167,
+        "answers": "Yes"
+    },
+    {
+        "id": 168,
+        "answers": null
+    },
+    {
+        "id": 169,
+        "answers": null
+    },
+    {
+        "id": 170,
+        "answers": "No"
+    },
+    {
+        "id": 171,
+        "answers": "No"
+    },
+    {
+        "id": 172,
+        "answers": null
+    },
+    {
+        "id": 173,
+        "answers": null
+    },
+    {
+        "id": 174,
+        "answers": "No"
+    },
+    {
+        "id": 175,
+        "answers": "No"
+    },
+    {
+        "id": 176,
+        "answers": null
+    },
+    {
+        "id": 177,
+        "answers": null
+    },
+    {
+        "id": 178,
+        "answers": "No"
+    },
+    {
+        "id": 179,
+        "answers": "No"
+    },
+    {
+        "id": 180,
+        "answers": null
+    },
+    {
+        "id": 181,
+        "answers": null
+    },
+    {
+        "id": 182,
+        "answers": "No"
+    },
+    {
+        "id": 183,
+        "answers": "No"
+    },
+    {
+        "id": 184,
+        "answers": null
+    },
+    {
+        "id": 185,
+        "answers": null
+    },
+    {
+        "id": 186,
+        "answers": "No"
+    },
+    {
+        "id": 187,
+        "answers": "No"
+    },
+    {
+        "id": 188,
+        "answers": "350 f."
+    },
+    {
+        "id": 189,
+        "answers": null
+    },
+    {
+        "id": 190,
+        "answers": "No"
+    },
+    {
+        "id": 191,
+        "answers": "No"
+    },
+    {
+        "id": 192,
+        "answers": null
+    },
+    {
+        "id": 193,
+        "answers": null
+    },
+    {
+        "id": 194,
+        "answers": "No"
+    },
+    {
+        "id": 195,
+        "answers": "No"
+    },
+    {
+        "id": 196,
+        "answers": "350"
+    },
+    {
+        "id": 197,
+        "answers": "12-15 minutes"
+    },
+    {
+        "id": 198,
+        "answers": "No"
+    },
+    {
+        "id": 199,
+        "answers": "No"
+    },
+    {
+        "id": 200,
+        "answers": "350f"
+    },
+    {
+        "id": 201,
+        "answers": "12-15 minutes"
+    },
+    {
+        "id": 202,
+        "answers": "Yes"
+    },
+    {
+        "id": 203,
+        "answers": "Yes"
+    },
+    {
+        "id": 204,
+        "answers": null
+    },
+    {
+        "id": 205,
+        "answers": null
+    },
+    {
+        "id": 206,
+        "answers": "No"
+    },
+    {
+        "id": 207,
+        "answers": "No"
+    },
+    {
+        "id": 208,
+        "answers": null
+    },
+    {
+        "id": 209,
+        "answers": null
+    },
+    {
+        "id": 210,
+        "answers": "Yes"
+    },
+    {
+        "id": 211,
+        "answers": "No"
+    },
+    {
+        "id": 212,
+        "answers": "350 f."
+    },
+    {
+        "id": 213,
+        "answers": null
+    },
+    {
+        "id": 214,
+        "answers": "No"
+    },
+    {
+        "id": 215,
+        "answers": "No"
+    },
+    {
+        "id": 216,
+        "answers": null
+    },
+    {
+        "id": 217,
+        "answers": "15 minutes"
+    },
+    {
+        "id": 218,
+        "answers": "Yes"
+    },
+    {
+        "id": 219,
+        "answers": "Yes"
+    },
+    {
+        "id": 220,
+        "answers": null
+    },
+    {
+        "id": 221,
+        "answers": null
+    },
+    {
+        "id": 222,
+        "answers": "No"
+    },
+    {
+        "id": 223,
+        "answers": "No"
+    },
+    {
+        "id": 224,
+        "answers": null
+    },
+    {
+        "id": 225,
+        "answers": null
+    },
+    {
+        "id": 226,
+        "answers": "No"
+    },
+    {
+        "id": 227,
+        "answers": "No"
+    },
+    {
+        "id": 228,
+        "answers": null
+    },
+    {
+        "id": 229,
+        "answers": null
+    },
+    {
+        "id": 230,
+        "answers": "No"
+    },
+    {
+        "id": 231,
+        "answers": "No"
+    },
+    {
+        "id": 232,
+        "answers": null
+    },
+    {
+        "id": 233,
+        "answers": null
+    },
+    {
+        "id": 234,
+        "answers": "No"
+    },
+    {
+        "id": 235,
+        "answers": "No"
+    },
+    {
+        "id": 236,
+        "answers": null
+    },
+    {
+        "id": 237,
+        "answers": null
+    },
+    {
+        "id": 238,
+        "answers": "No"
+    },
+    {
+        "id": 239,
+        "answers": "No"
+    },
+    {
+        "id": 240,
+        "answers": null
+    },
+    {
+        "id": 241,
+        "answers": null
+    },
+    {
+        "id": 242,
+        "answers": "No"
+    },
+    {
+        "id": 243,
+        "answers": "No"
+    },
+    {
+        "id": 244,
+        "answers": "350 degrees f"
+    },
+    {
+        "id": 245,
+        "answers": null
+    },
+    {
+        "id": 246,
+        "answers": "Yes"
+    },
+    {
+        "id": 247,
+        "answers": "Yes"
+    },
+    {
+        "id": 248,
+        "answers": null
+    },
+    {
+        "id": 249,
+        "answers": null
+    },
+    {
+        "id": 250,
+        "answers": "Yes"
+    },
+    {
+        "id": 251,
+        "answers": "Yes"
+    },
+    {
+        "id": 252,
+        "answers": null
+    },
+    {
+        "id": 253,
+        "answers": null
+    },
+    {
+        "id": 254,
+        "answers": "No"
+    },
+    {
+        "id": 255,
+        "answers": "No"
+    },
+    {
+        "id": 256,
+        "answers": null
+    },
+    {
+        "id": 257,
+        "answers": null
+    },
+    {
+        "id": 258,
+        "answers": "No"
+    },
+    {
+        "id": 259,
+        "answers": "No"
+    },
+    {
+        "id": 260,
+        "answers": null
+    },
+    {
+        "id": 261,
+        "answers": null
+    },
+    {
+        "id": 262,
+        "answers": "No"
+    },
+    {
+        "id": 263,
+        "answers": "No"
+    },
+    {
+        "id": 264,
+        "answers": null
+    },
+    {
+        "id": 265,
+        "answers": null
+    },
+    {
+        "id": 266,
+        "answers": "No"
+    },
+    {
+        "id": 267,
+        "answers": "No"
+    },
+    {
+        "id": 268,
+        "answers": null
+    },
+    {
+        "id": 269,
+        "answers": null
+    },
+    {
+        "id": 270,
+        "answers": "No"
+    },
+    {
+        "id": 271,
+        "answers": "No"
+    },
+    {
+        "id": 272,
+        "answers": "350 f."
+    },
+    {
+        "id": 273,
+        "answers": null
+    },
+    {
+        "id": 274,
+        "answers": "No"
+    },
+    {
+        "id": 275,
+        "answers": "No"
+    },
+    {
+        "id": 276,
+        "answers": null
+    },
+    {
+        "id": 277,
+        "answers": null
+    },
+    {
+        "id": 278,
+        "answers": "No"
+    },
+    {
+        "id": 279,
+        "answers": "No"
+    },
+    {
+        "id": 280,
+        "answers": null
+    },
+    {
+        "id": 281,
+        "answers": "10 to 15 minutes"
+    },
+    {
+        "id": 282,
+        "answers": "Yes"
+    },
+    {
+        "id": 283,
+        "answers": "Yes"
+    },
+    {
+        "id": 284,
+        "answers": null
+    },
+    {
+        "id": 285,
+        "answers": null
+    },
+    {
+        "id": 286,
+        "answers": "No"
+    },
+    {
+        "id": 287,
+        "answers": "No"
+    },
+    {
+        "id": 288,
+        "answers": null
+    },
+    {
+        "id": 289,
+        "answers": null
+    },
+    {
+        "id": 290,
+        "answers": "No"
+    },
+    {
+        "id": 291,
+        "answers": "No"
+    },
+    {
+        "id": 292,
+        "answers": "220 c (425 f)"
+    },
+    {
+        "id": 293,
+        "answers": null
+    },
+    {
+        "id": 294,
+        "answers": "No"
+    },
+    {
+        "id": 295,
+        "answers": "No"
+    },
+    {
+        "id": 296,
+        "answers": null
+    },
+    {
+        "id": 297,
+        "answers": null
+    },
+    {
+        "id": 298,
+        "answers": "No"
+    },
+    {
+        "id": 299,
+        "answers": "No"
+    },
+    {
+        "id": 300,
+        "answers": null
+    },
+    {
+        "id": 301,
+        "answers": null
+    },
+    {
+        "id": 302,
+        "answers": "No"
+    },
+    {
+        "id": 303,
+        "answers": "No"
+    },
+    {
+        "id": 304,
+        "answers": null
+    },
+    {
+        "id": 305,
+        "answers": null
+    },
+    {
+        "id": 306,
+        "answers": "No"
+    },
+    {
+        "id": 307,
+        "answers": "No"
+    },
+    {
+        "id": 308,
+        "answers": null
+    },
+    {
+        "id": 309,
+        "answers": "15-20 minutes"
+    },
+    {
+        "id": 310,
+        "answers": "Yes"
+    },
+    {
+        "id": 311,
+        "answers": "Yes"
+    },
+    {
+        "id": 312,
+        "answers": null
+    },
+    {
+        "id": 313,
+        "answers": "4-5 minutes"
+    },
+    {
+        "id": 314,
+        "answers": "Yes"
+    },
+    {
+        "id": 315,
+        "answers": "Yes"
+    },
+    {
+        "id": 316,
+        "answers": null
+    },
+    {
+        "id": 317,
+        "answers": "15-20 minutes"
+    },
+    {
+        "id": 318,
+        "answers": "Yes"
+    },
+    {
+        "id": 319,
+        "answers": "No"
+    },
+    {
+        "id": 320,
+        "answers": "160 c"
+    },
+    {
+        "id": 321,
+        "answers": null
+    },
+    {
+        "id": 322,
+        "answers": "No"
+    },
+    {
+        "id": 323,
+        "answers": "No"
+    },
+    {
+        "id": 324,
+        "answers": null
+    },
+    {
+        "id": 325,
+        "answers": null
+    },
+    {
+        "id": 326,
+        "answers": "No"
+    },
+    {
+        "id": 327,
+        "answers": "No"
+    },
+    {
+        "id": 328,
+        "answers": null
+    },
+    {
+        "id": 329,
+        "answers": null
+    },
+    {
+        "id": 330,
+        "answers": "No"
+    },
+    {
+        "id": 331,
+        "answers": "No"
+    },
+    {
+        "id": 332,
+        "answers": null
+    },
+    {
+        "id": 333,
+        "answers": null
+    },
+    {
+        "id": 334,
+        "answers": "No"
+    },
+    {
+        "id": 335,
+        "answers": "No"
+    },
+    {
+        "id": 336,
+        "answers": "160 degrees"
+    },
+    {
+        "id": 337,
+        "answers": "10-13 minutes"
+    },
+    {
+        "id": 338,
+        "answers": "Yes"
+    },
+    {
+        "id": 339,
+        "answers": "Yes"
+    },
+    {
+        "id": 340,
+        "answers": null
+    },
+    {
+        "id": 341,
+        "answers": null
+    },
+    {
+        "id": 342,
+        "answers": "No"
+    },
+    {
+        "id": 343,
+        "answers": "No"
+    },
+    {
+        "id": 344,
+        "answers": "250f"
+    },
+    {
+        "id": 345,
+        "answers": null
+    },
+    {
+        "id": 346,
+        "answers": "No"
+    },
+    {
+        "id": 347,
+        "answers": "No"
+    },
+    {
+        "id": 348,
+        "answers": "250f"
+    },
+    {
+        "id": 349,
+        "answers": null
+    },
+    {
+        "id": 350,
+        "answers": "No"
+    },
+    {
+        "id": 351,
+        "answers": "No"
+    },
+    {
+        "id": 352,
+        "answers": null
+    },
+    {
+        "id": 353,
+        "answers": null
+    },
+    {
+        "id": 354,
+        "answers": "No"
+    },
+    {
+        "id": 355,
+        "answers": "No"
+    },
+    {
+        "id": 356,
+        "answers": null
+    },
+    {
+        "id": 357,
+        "answers": null
+    },
+    {
+        "id": 358,
+        "answers": "No"
+    },
+    {
+        "id": 359,
+        "answers": "No"
+    },
+    {
+        "id": 360,
+        "answers": null
+    },
+    {
+        "id": 361,
+        "answers": "1 hour"
+    },
+    {
+        "id": 362,
+        "answers": "Yes"
+    },
+    {
+        "id": 363,
+        "answers": "Yes"
+    },
+    {
+        "id": 364,
+        "answers": null
+    },
+    {
+        "id": 365,
+        "answers": null
+    },
+    {
+        "id": 366,
+        "answers": "No"
+    },
+    {
+        "id": 367,
+        "answers": "No"
+    },
+    {
+        "id": 368,
+        "answers": null
+    },
+    {
+        "id": 369,
+        "answers": null
+    },
+    {
+        "id": 370,
+        "answers": "No"
+    },
+    {
+        "id": 371,
+        "answers": "No"
+    },
+    {
+        "id": 372,
+        "answers": null
+    },
+    {
+        "id": 373,
+        "answers": "4-7 min"
+    },
+    {
+        "id": 374,
+        "answers": "Yes"
+    },
+    {
+        "id": 375,
+        "answers": "Yes"
+    },
+    {
+        "id": 376,
+        "answers": "200 degrees celsius (392 fahrenheit)"
+    },
+    {
+        "id": 377,
+        "answers": null
+    },
+    {
+        "id": 378,
+        "answers": "No"
+    },
+    {
+        "id": 379,
+        "answers": "No"
+    },
+    {
+        "id": 380,
+        "answers": null
+    },
+    {
+        "id": 381,
+        "answers": null
+    },
+    {
+        "id": 382,
+        "answers": "No"
+    },
+    {
+        "id": 383,
+        "answers": "No"
+    },
+    {
+        "id": 384,
+        "answers": null
+    },
+    {
+        "id": 385,
+        "answers": null
+    },
+    {
+        "id": 386,
+        "answers": "No"
+    },
+    {
+        "id": 387,
+        "answers": "No"
+    },
+    {
+        "id": 388,
+        "answers": null
+    },
+    {
+        "id": 389,
+        "answers": null
+    },
+    {
+        "id": 390,
+        "answers": "No"
+    },
+    {
+        "id": 391,
+        "answers": "No"
+    },
+    {
+        "id": 392,
+        "answers": null
+    },
+    {
+        "id": 393,
+        "answers": "10 minute"
+    },
+    {
+        "id": 394,
+        "answers": "Yes"
+    },
+    {
+        "id": 395,
+        "answers": "Yes"
+    },
+    {
+        "id": 396,
+        "answers": null
+    },
+    {
+        "id": 397,
+        "answers": null
+    },
+    {
+        "id": 398,
+        "answers": "No"
+    },
+    {
+        "id": 399,
+        "answers": "No"
+    },
+    {
+        "id": 400,
+        "answers": null
+    },
+    {
+        "id": 401,
+        "answers": "30-35 minutes"
+    },
+    {
+        "id": 402,
+        "answers": "Yes"
+    },
+    {
+        "id": 403,
+        "answers": "Yes"
+    },
+    {
+        "id": 404,
+        "answers": null
+    },
+    {
+        "id": 405,
+        "answers": null
+    },
+    {
+        "id": 406,
+        "answers": "Yes"
+    },
+    {
+        "id": 407,
+        "answers": "No"
+    },
+    {
+        "id": 408,
+        "answers": null
+    },
+    {
+        "id": 409,
+        "answers": null
+    },
+    {
+        "id": 410,
+        "answers": "No"
+    },
+    {
+        "id": 411,
+        "answers": "No"
+    },
+    {
+        "id": 412,
+        "answers": null
+    },
+    {
+        "id": 413,
+        "answers": null
+    },
+    {
+        "id": 414,
+        "answers": "No"
+    },
+    {
+        "id": 415,
+        "answers": "No"
+    },
+    {
+        "id": 416,
+        "answers": null
+    },
+    {
+        "id": 417,
+        "answers": null
+    },
+    {
+        "id": 418,
+        "answers": "No"
+    },
+    {
+        "id": 419,
+        "answers": "No"
+    },
+    {
+        "id": 420,
+        "answers": null
+    },
+    {
+        "id": 421,
+        "answers": null
+    },
+    {
+        "id": 422,
+        "answers": "No"
+    },
+    {
+        "id": 423,
+        "answers": "No"
+    },
+    {
+        "id": 424,
+        "answers": null
+    },
+    {
+        "id": 425,
+        "answers": null
+    },
+    {
+        "id": 426,
+        "answers": "No"
+    },
+    {
+        "id": 427,
+        "answers": "No"
+    },
+    {
+        "id": 428,
+        "answers": "350 f"
+    },
+    {
+        "id": 429,
+        "answers": null
+    },
+    {
+        "id": 430,
+        "answers": "No"
+    },
+    {
+        "id": 431,
+        "answers": "No"
+    },
+    {
+        "id": 432,
+        "answers": null
+    },
+    {
+        "id": 433,
+        "answers": null
+    },
+    {
+        "id": 434,
+        "answers": "No"
+    },
+    {
+        "id": 435,
+        "answers": "No"
+    },
+    {
+        "id": 436,
+        "answers": null
+    },
+    {
+        "id": 437,
+        "answers": null
+    },
+    {
+        "id": 438,
+        "answers": "No"
+    },
+    {
+        "id": 439,
+        "answers": "No"
+    },
+    {
+        "id": 440,
+        "answers": "350 f"
+    },
+    {
+        "id": 441,
+        "answers": "10 minutes"
+    },
+    {
+        "id": 442,
+        "answers": "Yes"
+    },
+    {
+        "id": 443,
+        "answers": "Yes"
+    },
+    {
+        "id": 444,
+        "answers": null
+    },
+    {
+        "id": 445,
+        "answers": null
+    },
+    {
+        "id": 446,
+        "answers": "No"
+    },
+    {
+        "id": 447,
+        "answers": "No"
+    },
+    {
+        "id": 448,
+        "answers": null
+    },
+    {
+        "id": 449,
+        "answers": null
+    },
+    {
+        "id": 450,
+        "answers": "No"
+    },
+    {
+        "id": 451,
+        "answers": "No"
+    },
+    {
+        "id": 452,
+        "answers": null
+    },
+    {
+        "id": 453,
+        "answers": null
+    },
+    {
+        "id": 454,
+        "answers": "No"
+    },
+    {
+        "id": 455,
+        "answers": "No"
+    },
+    {
+        "id": 456,
+        "answers": null
+    },
+    {
+        "id": 457,
+        "answers": null
+    },
+    {
+        "id": 458,
+        "answers": "No"
+    },
+    {
+        "id": 459,
+        "answers": "No"
+    },
+    {
+        "id": 460,
+        "answers": null
+    },
+    {
+        "id": 461,
+        "answers": null
+    },
+    {
+        "id": 462,
+        "answers": "Yes"
+    },
+    {
+        "id": 463,
+        "answers": "No"
+    },
+    {
+        "id": 464,
+        "answers": null
+    },
+    {
+        "id": 465,
+        "answers": null
+    },
+    {
+        "id": 466,
+        "answers": "Yes"
+    },
+    {
+        "id": 467,
+        "answers": "No"
+    },
+    {
+        "id": 468,
+        "answers": null
+    },
+    {
+        "id": 469,
+        "answers": null
+    },
+    {
+        "id": 470,
+        "answers": "No"
+    },
+    {
+        "id": 471,
+        "answers": "No"
+    },
+    {
+        "id": 472,
+        "answers": null
+    },
+    {
+        "id": 473,
+        "answers": null
+    },
+    {
+        "id": 474,
+        "answers": "No"
+    },
+    {
+        "id": 475,
+        "answers": "No"
+    },
+    {
+        "id": 476,
+        "answers": null
+    },
+    {
+        "id": 477,
+        "answers": null
+    },
+    {
+        "id": 478,
+        "answers": "No"
+    },
+    {
+        "id": 479,
+        "answers": "No"
+    },
+    {
+        "id": 480,
+        "answers": null
+    },
+    {
+        "id": 481,
+        "answers": null
+    },
+    {
+        "id": 482,
+        "answers": "No"
+    },
+    {
+        "id": 483,
+        "answers": "No"
+    },
+    {
+        "id": 484,
+        "answers": "375 f, or temperature specified on food food package"
+    },
+    {
+        "id": 485,
+        "answers": null
+    },
+    {
+        "id": 486,
+        "answers": "No"
+    },
+    {
+        "id": 487,
+        "answers": "No"
+    },
+    {
+        "id": 488,
+        "answers": null
+    },
+    {
+        "id": 489,
+        "answers": null
+    },
+    {
+        "id": 490,
+        "answers": "No"
+    },
+    {
+        "id": 491,
+        "answers": "No"
+    },
+    {
+        "id": 492,
+        "answers": null
+    },
+    {
+        "id": 493,
+        "answers": "12-15 minutes"
+    },
+    {
+        "id": 494,
+        "answers": "Yes"
+    },
+    {
+        "id": 495,
+        "answers": "Yes"
+    },
+    {
+        "id": 496,
+        "answers": null
+    },
+    {
+        "id": 497,
+        "answers": null
+    },
+    {
+        "id": 498,
+        "answers": "No"
+    },
+    {
+        "id": 499,
+        "answers": "No"
+    },
+    {
+        "id": 500,
+        "answers": null
+    },
+    {
+        "id": 501,
+        "answers": null
+    },
+    {
+        "id": 502,
+        "answers": "No"
+    },
+    {
+        "id": 503,
+        "answers": "No"
+    },
+    {
+        "id": 504,
+        "answers": null
+    },
+    {
+        "id": 505,
+        "answers": null
+    },
+    {
+        "id": 506,
+        "answers": "No"
+    },
+    {
+        "id": 507,
+        "answers": "No"
+    },
+    {
+        "id": 508,
+        "answers": null
+    },
+    {
+        "id": 509,
+        "answers": null
+    },
+    {
+        "id": 510,
+        "answers": "No"
+    },
+    {
+        "id": 511,
+        "answers": "No"
+    },
+    {
+        "id": 512,
+        "answers": null
+    },
+    {
+        "id": 513,
+        "answers": null
+    },
+    {
+        "id": 514,
+        "answers": "No"
+    },
+    {
+        "id": 515,
+        "answers": "No"
+    },
+    {
+        "id": 516,
+        "answers": null
+    },
+    {
+        "id": 517,
+        "answers": null
+    },
+    {
+        "id": 518,
+        "answers": "No"
+    },
+    {
+        "id": 519,
+        "answers": "No"
+    },
+    {
+        "id": 520,
+        "answers": null
+    },
+    {
+        "id": 521,
+        "answers": null
+    },
+    {
+        "id": 522,
+        "answers": "No"
+    },
+    {
+        "id": 523,
+        "answers": "No"
+    },
+    {
+        "id": 524,
+        "answers": null
+    },
+    {
+        "id": 525,
+        "answers": null
+    },
+    {
+        "id": 526,
+        "answers": "No"
+    },
+    {
+        "id": 527,
+        "answers": "No"
+    },
+    {
+        "id": 528,
+        "answers": "340 f.(170 c)"
+    },
+    {
+        "id": 529,
+        "answers": "30 minutes"
+    },
+    {
+        "id": 530,
+        "answers": "No"
+    },
+    {
+        "id": 531,
+        "answers": "No"
+    },
+    {
+        "id": 532,
+        "answers": null
+    },
+    {
+        "id": 533,
+        "answers": "45 minutes"
+    },
+    {
+        "id": 534,
+        "answers": "Yes"
+    },
+    {
+        "id": 535,
+        "answers": "Yes"
+    },
+    {
+        "id": 536,
+        "answers": "204c / 400f"
+    },
+    {
+        "id": 537,
+        "answers": "15 minutes"
+    },
+    {
+        "id": 538,
+        "answers": "Yes"
+    },
+    {
+        "id": 539,
+        "answers": "Yes"
+    },
+    {
+        "id": 540,
+        "answers": null
+    },
+    {
+        "id": 541,
+        "answers": "20 minutes"
+    },
+    {
+        "id": 542,
+        "answers": "Yes"
+    },
+    {
+        "id": 543,
+        "answers": "Yes"
+    },
+    {
+        "id": 544,
+        "answers": null
+    },
+    {
+        "id": 545,
+        "answers": null
+    },
+    {
+        "id": 546,
+        "answers": "Yes"
+    },
+    {
+        "id": 547,
+        "answers": "No"
+    },
+    {
+        "id": 548,
+        "answers": null
+    },
+    {
+        "id": 549,
+        "answers": null
+    },
+    {
+        "id": 550,
+        "answers": "No"
+    },
+    {
+        "id": 551,
+        "answers": "No"
+    },
+    {
+        "id": 552,
+        "answers": "450 degrees fahrenheit"
+    },
+    {
+        "id": 553,
+        "answers": null
+    },
+    {
+        "id": 554,
+        "answers": "No"
+    },
+    {
+        "id": 555,
+        "answers": "No"
+    },
+    {
+        "id": 556,
+        "answers": null
+    },
+    {
+        "id": 557,
+        "answers": null
+    },
+    {
+        "id": 558,
+        "answers": "No"
+    },
+    {
+        "id": 559,
+        "answers": "No"
+    },
+    {
+        "id": 560,
+        "answers": null
+    },
+    {
+        "id": 561,
+        "answers": null
+    },
+    {
+        "id": 562,
+        "answers": "No"
+    },
+    {
+        "id": 563,
+        "answers": "No"
+    },
+    {
+        "id": 564,
+        "answers": null
+    },
+    {
+        "id": 565,
+        "answers": "15 minutes"
+    },
+    {
+        "id": 566,
+        "answers": "Yes"
+    },
+    {
+        "id": 567,
+        "answers": "Yes"
+    },
+    {
+        "id": 568,
+        "answers": null
+    },
+    {
+        "id": 569,
+        "answers": null
+    },
+    {
+        "id": 570,
+        "answers": "No"
+    },
+    {
+        "id": 571,
+        "answers": "No"
+    },
+    {
+        "id": 572,
+        "answers": null
+    },
+    {
+        "id": 573,
+        "answers": "10 minutes"
+    },
+    {
+        "id": 574,
+        "answers": "Yes"
+    },
+    {
+        "id": 575,
+        "answers": "Yes"
+    },
+    {
+        "id": 576,
+        "answers": null
+    },
+    {
+        "id": 577,
+        "answers": null
+    },
+    {
+        "id": 578,
+        "answers": "No"
+    },
+    {
+        "id": 579,
+        "answers": "No"
+    },
+    {
+        "id": 580,
+        "answers": null
+    },
+    {
+        "id": 581,
+        "answers": null
+    },
+    {
+        "id": 582,
+        "answers": "No"
+    },
+    {
+        "id": 583,
+        "answers": "No"
+    },
+    {
+        "id": 584,
+        "answers": null
+    },
+    {
+        "id": 585,
+        "answers": null
+    },
+    {
+        "id": 586,
+        "answers": "No"
+    },
+    {
+        "id": 587,
+        "answers": "No"
+    },
+    {
+        "id": 588,
+        "answers": null
+    },
+    {
+        "id": 589,
+        "answers": null
+    },
+    {
+        "id": 590,
+        "answers": "Yes"
+    },
+    {
+        "id": 591,
+        "answers": "Yes"
+    },
+    {
+        "id": 592,
+        "answers": "400f (205c)"
+    },
+    {
+        "id": 593,
+        "answers": "15 minutes"
+    },
+    {
+        "id": 594,
+        "answers": "No"
+    },
+    {
+        "id": 595,
+        "answers": "No"
+    },
+    {
+        "id": 596,
+        "answers": "350f (177c)"
+    },
+    {
+        "id": 597,
+        "answers": "45 minutes"
+    },
+    {
+        "id": 598,
+        "answers": "No"
+    },
+    {
+        "id": 599,
+        "answers": "No"
+    },
+    {
+        "id": 600,
+        "answers": null
+    },
+    {
+        "id": 601,
+        "answers": null
+    },
+    {
+        "id": 602,
+        "answers": "Yes"
+    },
+    {
+        "id": 603,
+        "answers": "No"
+    },
+    {
+        "id": 604,
+        "answers": "375f (190c)"
+    },
+    {
+        "id": 605,
+        "answers": null
+    },
+    {
+        "id": 606,
+        "answers": "No"
+    },
+    {
+        "id": 607,
+        "answers": "No"
+    },
+    {
+        "id": 608,
+        "answers": null
+    },
+    {
+        "id": 609,
+        "answers": null
+    },
+    {
+        "id": 610,
+        "answers": "No"
+    },
+    {
+        "id": 611,
+        "answers": "No"
+    },
+    {
+        "id": 612,
+        "answers": "375f (190c)"
+    },
+    {
+        "id": 613,
+        "answers": "7 minutes"
+    },
+    {
+        "id": 614,
+        "answers": "Yes"
+    },
+    {
+        "id": 615,
+        "answers": "Yes"
+    },
+    {
+        "id": 616,
+        "answers": "350f (177c)"
+    },
+    {
+        "id": 617,
+        "answers": null
+    },
+    {
+        "id": 618,
+        "answers": "No"
+    },
+    {
+        "id": 619,
+        "answers": "No"
+    },
+    {
+        "id": 620,
+        "answers": "350f"
+    },
+    {
+        "id": 621,
+        "answers": "35 minutes"
+    },
+    {
+        "id": 622,
+        "answers": "No"
+    },
+    {
+        "id": 623,
+        "answers": "No"
+    },
+    {
+        "id": 624,
+        "answers": null
+    },
+    {
+        "id": 625,
+        "answers": null
+    },
+    {
+        "id": 626,
+        "answers": "No"
+    },
+    {
+        "id": 627,
+        "answers": "No"
+    },
+    {
+        "id": 628,
+        "answers": null
+    },
+    {
+        "id": 629,
+        "answers": null
+    },
+    {
+        "id": 630,
+        "answers": "No"
+    },
+    {
+        "id": 631,
+        "answers": "No"
+    },
+    {
+        "id": 632,
+        "answers": null
+    },
+    {
+        "id": 633,
+        "answers": null
+    },
+    {
+        "id": 634,
+        "answers": "No"
+    },
+    {
+        "id": 635,
+        "answers": "No"
+    },
+    {
+        "id": 636,
+        "answers": "350 f."
+    },
+    {
+        "id": 637,
+        "answers": null
+    },
+    {
+        "id": 638,
+        "answers": "No"
+    },
+    {
+        "id": 639,
+        "answers": "No"
+    },
+    {
+        "id": 640,
+        "answers": null
+    },
+    {
+        "id": 641,
+        "answers": "10 minutes"
+    },
+    {
+        "id": 642,
+        "answers": "Yes"
+    },
+    {
+        "id": 643,
+        "answers": "Yes"
+    },
+    {
+        "id": 644,
+        "answers": null
+    },
+    {
+        "id": 645,
+        "answers": null
+    },
+    {
+        "id": 646,
+        "answers": "No"
+    },
+    {
+        "id": 647,
+        "answers": "No"
+    },
+    {
+        "id": 648,
+        "answers": null
+    },
+    {
+        "id": 649,
+        "answers": "35-40 minutes"
+    },
+    {
+        "id": 650,
+        "answers": "Yes"
+    },
+    {
+        "id": 651,
+        "answers": "Yes"
+    },
+    {
+        "id": 652,
+        "answers": "350 f."
+    },
+    {
+        "id": 653,
+        "answers": null
+    },
+    {
+        "id": 654,
+        "answers": "No"
+    },
+    {
+        "id": 655,
+        "answers": "No"
+    },
+    {
+        "id": 656,
+        "answers": null
+    },
+    {
+        "id": 657,
+        "answers": "25-30 minutes"
+    },
+    {
+        "id": 658,
+        "answers": "Yes"
+    },
+    {
+        "id": 659,
+        "answers": "Yes"
+    },
+    {
+        "id": 660,
+        "answers": null
+    },
+    {
+        "id": 661,
+        "answers": null
+    },
+    {
+        "id": 662,
+        "answers": "No"
+    },
+    {
+        "id": 663,
+        "answers": "No"
+    },
+    {
+        "id": 664,
+        "answers": null
+    },
+    {
+        "id": 665,
+        "answers": null
+    },
+    {
+        "id": 666,
+        "answers": "Yes"
+    },
+    {
+        "id": 667,
+        "answers": "Yes"
+    },
+    {
+        "id": 668,
+        "answers": null
+    },
+    {
+        "id": 669,
+        "answers": null
+    },
+    {
+        "id": 670,
+        "answers": "No"
+    },
+    {
+        "id": 671,
+        "answers": "No"
+    },
+    {
+        "id": 672,
+        "answers": "350 degrees"
+    },
+    {
+        "id": 673,
+        "answers": null
+    },
+    {
+        "id": 674,
+        "answers": "No"
+    },
+    {
+        "id": 675,
+        "answers": "No"
+    },
+    {
+        "id": 676,
+        "answers": null
+    },
+    {
+        "id": 677,
+        "answers": null
+    },
+    {
+        "id": 678,
+        "answers": "Yes"
+    },
+    {
+        "id": 679,
+        "answers": "Yes"
+    },
+    {
+        "id": 680,
+        "answers": null
+    },
+    {
+        "id": 681,
+        "answers": null
+    },
+    {
+        "id": 682,
+        "answers": "No"
+    },
+    {
+        "id": 683,
+        "answers": "No"
+    },
+    {
+        "id": 684,
+        "answers": null
+    },
+    {
+        "id": 685,
+        "answers": "30-35 minutes"
+    },
+    {
+        "id": 686,
+        "answers": "No"
+    },
+    {
+        "id": 687,
+        "answers": "No"
+    },
+    {
+        "id": 688,
+        "answers": null
+    },
+    {
+        "id": 689,
+        "answers": "20 minutes"
+    },
+    {
+        "id": 690,
+        "answers": "Yes"
+    },
+    {
+        "id": 691,
+        "answers": "No"
+    },
+    {
+        "id": 692,
+        "answers": null
+    },
+    {
+        "id": 693,
+        "answers": null
+    },
+    {
+        "id": 694,
+        "answers": "No"
+    },
+    {
+        "id": 695,
+        "answers": "No"
+    },
+    {
+        "id": 696,
+        "answers": "200 c (400 f)"
+    },
+    {
+        "id": 697,
+        "answers": "15 minutes"
+    },
+    {
+        "id": 698,
+        "answers": "Yes"
+    },
+    {
+        "id": 699,
+        "answers": "Yes"
+    },
+    {
+        "id": 700,
+        "answers": null
+    },
+    {
+        "id": 701,
+        "answers": null
+    },
+    {
+        "id": 702,
+        "answers": "No"
+    },
+    {
+        "id": 703,
+        "answers": "No"
+    },
+    {
+        "id": 704,
+        "answers": null
+    },
+    {
+        "id": 705,
+        "answers": null
+    },
+    {
+        "id": 706,
+        "answers": "No"
+    },
+    {
+        "id": 707,
+        "answers": "No"
+    },
+    {
+        "id": 708,
+        "answers": "375 degrees f"
+    },
+    {
+        "id": 709,
+        "answers": null
+    },
+    {
+        "id": 710,
+        "answers": "Yes"
+    },
+    {
+        "id": 711,
+        "answers": "Yes"
+    },
+    {
+        "id": 712,
+        "answers": null
+    },
+    {
+        "id": 713,
+        "answers": null
+    },
+    {
+        "id": 714,
+        "answers": "No"
+    },
+    {
+        "id": 715,
+        "answers": "No"
+    },
+    {
+        "id": 716,
+        "answers": "turn off"
+    },
+    {
+        "id": 717,
+        "answers": null
+    },
+    {
+        "id": 718,
+        "answers": "Yes"
+    },
+    {
+        "id": 719,
+        "answers": "No"
+    },
+    {
+        "id": 720,
+        "answers": "350 degrees fahrenheit"
+    },
+    {
+        "id": 721,
+        "answers": null
+    },
+    {
+        "id": 722,
+        "answers": "No"
+    },
+    {
+        "id": 723,
+        "answers": "No"
+    },
+    {
+        "id": 724,
+        "answers": null
+    },
+    {
+        "id": 725,
+        "answers": null
+    },
+    {
+        "id": 726,
+        "answers": "No"
+    },
+    {
+        "id": 727,
+        "answers": "No"
+    },
+    {
+        "id": 728,
+        "answers": null
+    },
+    {
+        "id": 729,
+        "answers": "25-30 minutes"
+    },
+    {
+        "id": 730,
+        "answers": "Yes"
+    },
+    {
+        "id": 731,
+        "answers": "Yes"
+    },
+    {
+        "id": 732,
+        "answers": null
+    },
+    {
+        "id": 733,
+        "answers": null
+    },
+    {
+        "id": 734,
+        "answers": "No"
+    },
+    {
+        "id": 735,
+        "answers": "No"
+    },
+    {
+        "id": 736,
+        "answers": null
+    },
+    {
+        "id": 737,
+        "answers": null
+    },
+    {
+        "id": 738,
+        "answers": "No"
+    },
+    {
+        "id": 739,
+        "answers": "No"
+    },
+    {
+        "id": 740,
+        "answers": null
+    },
+    {
+        "id": 741,
+        "answers": null
+    },
+    {
+        "id": 742,
+        "answers": "No"
+    },
+    {
+        "id": 743,
+        "answers": "No"
+    },
+    {
+        "id": 744,
+        "answers": null
+    },
+    {
+        "id": 745,
+        "answers": null
+    },
+    {
+        "id": 746,
+        "answers": "No"
+    },
+    {
+        "id": 747,
+        "answers": "No"
+    },
+    {
+        "id": 748,
+        "answers": null
+    },
+    {
+        "id": 749,
+        "answers": null
+    },
+    {
+        "id": 750,
+        "answers": "No"
+    },
+    {
+        "id": 751,
+        "answers": "No"
+    },
+    {
+        "id": 752,
+        "answers": null
+    },
+    {
+        "id": 753,
+        "answers": null
+    },
+    {
+        "id": 754,
+        "answers": "No"
+    },
+    {
+        "id": 755,
+        "answers": "No"
+    },
+    {
+        "id": 756,
+        "answers": "according to the recipe"
+    },
+    {
+        "id": 757,
+        "answers": "according to the recipe"
+    },
+    {
+        "id": 758,
+        "answers": "Yes"
+    },
+    {
+        "id": 759,
+        "answers": "Yes"
+    },
+    {
+        "id": 760,
+        "answers": null
+    },
+    {
+        "id": 761,
+        "answers": null
+    },
+    {
+        "id": 762,
+        "answers": "No"
+    },
+    {
+        "id": 763,
+        "answers": "No"
+    },
+    {
+        "id": 764,
+        "answers": null
+    },
+    {
+        "id": 765,
+        "answers": null
+    },
+    {
+        "id": 766,
+        "answers": "No"
+    },
+    {
+        "id": 767,
+        "answers": "No"
+    },
+    {
+        "id": 768,
+        "answers": null
+    },
+    {
+        "id": 769,
+        "answers": null
+    },
+    {
+        "id": 770,
+        "answers": "Yes"
+    },
+    {
+        "id": 771,
+        "answers": "No"
+    },
+    {
+        "id": 772,
+        "answers": null
+    },
+    {
+        "id": 773,
+        "answers": null
+    },
+    {
+        "id": 774,
+        "answers": "No"
+    },
+    {
+        "id": 775,
+        "answers": "No"
+    },
+    {
+        "id": 776,
+        "answers": null
+    },
+    {
+        "id": 777,
+        "answers": null
+    },
+    {
+        "id": 778,
+        "answers": "No"
+    },
+    {
+        "id": 779,
+        "answers": "No"
+    },
+    {
+        "id": 780,
+        "answers": "350 degrees"
+    },
+    {
+        "id": 781,
+        "answers": null
+    },
+    {
+        "id": 782,
+        "answers": "No"
+    },
+    {
+        "id": 783,
+        "answers": "No"
+    },
+    {
+        "id": 784,
+        "answers": "350 degrees"
+    },
+    {
+        "id": 785,
+        "answers": "1 hour and 15 minutes"
+    },
+    {
+        "id": 786,
+        "answers": "Yes"
+    },
+    {
+        "id": 787,
+        "answers": "Yes"
+    },
+    {
+        "id": 788,
+        "answers": null
+    },
+    {
+        "id": 789,
+        "answers": null
+    },
+    {
+        "id": 790,
+        "answers": "Yes"
+    },
+    {
+        "id": 791,
+        "answers": "Yes"
+    },
+    {
+        "id": 792,
+        "answers": null
+    },
+    {
+        "id": 793,
+        "answers": null
+    },
+    {
+        "id": 794,
+        "answers": "No"
+    },
+    {
+        "id": 795,
+        "answers": "No"
+    },
+    {
+        "id": 796,
+        "answers": null
+    },
+    {
+        "id": 797,
+        "answers": "10-15"
+    },
+    {
+        "id": 798,
+        "answers": "Yes"
+    },
+    {
+        "id": 799,
+        "answers": "Yes"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "BLEU": 0.5623,
+        "Rouge 1": 0.3135,
+        "Accuracy": 0.805,
+        "Dummy Accuracy": 0.575,
+        "Precision": 0.7967,
+        "Recall": 0.788,
+        "F1 Score Weighted": 0.7928,
+        "F1 Score Micro": 0.7923,
+        "Hamming loss": 0.095,
+        "round": 1,
+        "max of: BLEU": 1,
+        "max of: Rouge 1": 1,
+        "max of: Accuracy": 1,
+        "max of: Precision": 1,
+        "max of: Recall": 1,
+        "max of: F1 Score Weighted": 1,
+        "max of: F1 Score Micro": 1,
+        "min of: Hamming loss": 1
+    },
+    {
+        "BLEU": 0.5623,
+        "Rouge 1": 0.3135,
+        "Accuracy": 0.805,
+        "Dummy Accuracy": 0.575,
+        "Precision": 0.7967,
+        "Recall": 0.788,
+        "F1 Score Weighted": 0.7928,
+        "F1 Score Micro": 0.7923,
+        "Hamming loss": 0.095,
+        "round": 2,
+        "max of: BLEU": 1,
+        "max of: Rouge 1": 1,
+        "max of: Accuracy": 1,
+        "max of: Precision": 1,
+        "max of: Recall": 1,
+        "max of: F1 Score Weighted": 1,
+        "max of: F1 Score Micro": 1,
+        "min of: Hamming loss": 1
+    }
+]
